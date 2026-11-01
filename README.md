@@ -2,11 +2,11 @@
 
 Estudiante de Ingeniería de Software e Inteligencia Artificial. Explorando programación, datos y pequeños juegos hechos con código.
 
-[![Snake Garden: una culebrita azul en un jardín verde. Pulsa para jugar.](banner.svg)](https://rubeninfantes.github.io/rubeninfantes/)
+[![Snake Garden: una culebrita azul en un jardín verde. Pulsa para jugar.](banner.svg)](https://ruben-infantes.github.io/Ruben-Infantes/)
 
 ### 🐍 Un descanso entre líneas de código
 
-**[Jugar a Snake Garden →](https://rubeninfantes.github.io/rubeninfantes/)**
+**[Jugar a Snake Garden →](https://ruben-infantes.github.io/Ruben-Infantes/)**
 
 Come manzanas, haz crecer tu culebrita y supera tu récord.
 
